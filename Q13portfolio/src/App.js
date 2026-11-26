@@ -39,7 +39,7 @@ function App() {
           <div className="hero-copy">
             <p className="eyebrow">MCA Student &amp; Web Developer</p>
             <h1>
-              Hi, I'm <span>Krishna</span>
+              Hi, I'm <span>Shashikant</span>
             </h1>
             <p className="hero-description">
               I build clean, responsive and user-friendly websites using modern
@@ -125,11 +125,11 @@ function App() {
             <p className="eyebrow">Let's Talk</p>
             <h2>Have a project in mind?</h2>
           </div>
-          <div className="contact-details">
-            <a href="mailto:krishna.kumar_mca26@gla.ac.in">
-              krishna.kumar_mca26@gla.ac.in
+          <div className="contact-details"n>
+            <a href="mailto:krishna.kumar_mca26@gla.ac.i">
+              
             </a>
-            <a href="tel:+919369356608">+91 93693 56608</a>
+            <a href="tel:+919369356608">+91 </a>
           </div>
         </section>
       </main>
